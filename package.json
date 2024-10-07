@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "yarn learnign",
+  "main": "src/server.js",
+  "author": "ngovantuyen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
